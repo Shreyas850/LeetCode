@@ -40,4 +40,12 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
