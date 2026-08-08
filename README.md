@@ -10,11 +10,13 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +66,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Trie
 |  |
 | ------- |
@@ -92,4 +96,8 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Counting
+|  |
+| ------- |
+| [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 <!---LeetCode Topics End-->
