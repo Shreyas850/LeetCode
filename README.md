@@ -8,6 +8,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
@@ -41,6 +42,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -52,11 +54,13 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shreyas850/LeetCode/tree/master/0010-regular-expression-matching) |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## String
 |  |
@@ -100,4 +104,16 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
