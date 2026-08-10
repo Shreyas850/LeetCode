@@ -43,6 +43,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -55,6 +56,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shreyas850/LeetCode/tree/master/0010-regular-expression-matching) |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -108,12 +110,23 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
