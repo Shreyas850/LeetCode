@@ -9,6 +9,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
@@ -16,6 +17,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Binary Search
@@ -146,4 +148,8 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shreyas850/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
