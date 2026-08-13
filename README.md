@@ -45,6 +45,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas850/LeetCode/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shreyas850/LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -83,6 +84,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas850/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Shreyas850/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Backtracking
 |  |
@@ -135,6 +137,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas850/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Shreyas850/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
