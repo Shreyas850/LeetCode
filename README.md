@@ -20,6 +20,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [0010-regular-expression-matching](https://github.com/Shreyas850/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -162,4 +164,8 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
