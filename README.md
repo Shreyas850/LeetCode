@@ -79,6 +79,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shreyas850/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas850/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -172,6 +173,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas850/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
