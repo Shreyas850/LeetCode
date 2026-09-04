@@ -9,6 +9,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shreyas850/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1349-maximum-students-taking-exam](https://github.com/Shreyas850/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1563-stone-game-v](https://github.com/Shreyas850/LeetCode/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -47,11 +48,13 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shreyas850/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [3310-remove-methods-from-project](https://github.com/Shreyas850/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shreyas850/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shreyas850/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [3310-remove-methods-from-project](https://github.com/Shreyas850/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
