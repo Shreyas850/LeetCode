@@ -12,6 +12,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shreyas850/LeetCode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1349-maximum-students-taking-exam](https://github.com/Shreyas850/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [1563-stone-game-v](https://github.com/Shreyas850/LeetCode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -26,6 +27,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyas850/LeetCode/tree/master/0001-two-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -35,6 +37,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Shreyas850/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -88,6 +91,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyas850/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shreyas850/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyas850/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
@@ -195,6 +199,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyas850/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyas850/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
