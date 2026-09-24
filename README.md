@@ -18,6 +18,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas850/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas850/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shreyas850/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyas850/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -69,6 +70,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [1563-stone-game-v](https://github.com/Shreyas850/LeetCode/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyas850/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas850/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyas850/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreyas850/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
