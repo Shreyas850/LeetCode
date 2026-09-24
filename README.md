@@ -15,6 +15,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyas850/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyas850/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/Shreyas850/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shreyas850/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyas850/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -127,6 +128,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyas850/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/Shreyas850/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyas850/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -212,6 +214,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/Shreyas850/LeetCode/tree/master/1349-maximum-students-taking-exam) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/Shreyas850/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shreyas850/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
