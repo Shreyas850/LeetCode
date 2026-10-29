@@ -22,6 +22,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas850/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shreyas850/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyas850/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreyas850/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyas850/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -47,10 +48,12 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas850/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shreyas850/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Shreyas850/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyas850/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3664-two-letter-card-game](https://github.com/Shreyas850/LeetCode/tree/master/3664-two-letter-card-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -141,6 +145,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyas850/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Shreyas850/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shreyas850/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +221,7 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 | [1349-maximum-students-taking-exam](https://github.com/Shreyas850/LeetCode/tree/master/1349-maximum-students-taking-exam) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/Shreyas850/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shreyas850/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -273,4 +279,9 @@ Welcome to my LeetCode workspace! This repository serves as a documented log of 
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Shreyas850/LeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shreyas850/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
